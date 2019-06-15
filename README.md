@@ -54,6 +54,6 @@ Lastly we have rewind. Passing a value to rewind will move the pointer relative 
 ### Reading Bits
 The purpose of this package is to make it easier to read values that don't fit the usual 8 bit (byte) structure.
 
-    let word = try reader.readBits(length: 16)
+    let word = try reader.readBits(length: 10)
 
-This reads 16 bits from the current file position. 
+This reads 10 bits from the current file position. 
