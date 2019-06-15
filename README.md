@@ -1,6 +1,6 @@
 # BinaryReader
 
-Binary Reader a tool for reading binary files.
+BinaryReader is a tool for reading binary files.
 
 ## Usage
 
