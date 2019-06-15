@@ -38,7 +38,7 @@ Then reading from the file becomes this easy.
 ## Features
 ### File Seeking
 
-BinaryReader supports three ways of file seeking. First of which is seek. This moves the current file pointer to the index specified. As BinaryReader works at the bit level, this examples shows us setting the pointer to the 16th bit which is the start of the third byte.
+BinaryReader supports three ways of file seeking. First of which is seek. This moves the current file pointer to the index specified. As BinaryReader works at the bit level, this examples shows us setting the pointer to index 16 which is the start of the third byte.
 
     reader.seek(to: 16) // moves to the file pointer to the 17th bit (start of the third byte)
 
