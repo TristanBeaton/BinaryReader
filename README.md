@@ -2,7 +2,6 @@
 
 Binary Reader a tool for reading binary files.
 
-***
 ## Usage
 
 Begin by making your file API conform to BinaryReadable.
