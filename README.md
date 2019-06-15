@@ -5,7 +5,7 @@ Binary Reader a tool for reading binary files.
 ***
 ## Usage
 
-In order to use BinaryReader you must make your file API conform to BinaryReadable.
+Begin by making your file API conform to BinaryReadable.
 
 ### BinaryReadable
 
